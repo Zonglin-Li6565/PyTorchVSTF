@@ -103,5 +103,8 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-#
+# my
 .idea/
+.pt_data/*
+.tf_data/*
+weights.pickle
